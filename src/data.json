@@ -1,0 +1,72 @@
+{
+    "products":[
+        {
+"_id":"dress 1",
+"image":"/images/dress1.jpg",
+"title":"Copy of dress 1",
+"description":"very good piece pappu",
+"availableSizes":["XL","L","M","S"],
+"price":"29.9"
+    },
+    {
+        "_id":"dress 2",
+        "image":"/images/dress2.jpg",
+        "title":"Copy of dress 2",
+        "description":"very good piece pappu",
+        "availableSizes":["L","M","S"],
+        "price":"50"
+},
+{
+"_id":"dress 3",
+"image":"/images/dress3.jpg",
+"title":"Copy of dress 3",
+"description":"very good piece pappu",
+"availableSizes":["M","S"],
+"price":"60"
+    },
+{
+    "_id":"dress 4",
+    "image":"/images/dress4.jpg",
+    "title":"Copy of dress 4",
+    "description":"very good piece pappu",
+    "availableSizes":["XL","L","S"],
+    "price":"70"
+        },
+{
+    "_id":"dress 5",
+    "image":"/images/dress5.jpg",
+    "title":"Copy of dress 5",
+    "description":"very good piece pappu",
+    "availableSizes":["XL","L","M","S"],
+    "price":"80"
+        },
+{
+        "_id":"dress 6",
+        "image":"/images/dress6.jpg",
+        "title":"Copy of dress 6",
+        "description":"very good piece pappu",
+        "availableSizes":["M","L"],
+        "price":"100"
+            },
+    {
+                "_id":"dress 7",
+                "image":"/images/dress7.jpg",
+                "title":"Copy of dress 7",
+                "description":"very good piece pappu",
+                "availableSizes":["M","L"],
+                "price":"30"
+                    }
+                    ,
+                    {
+                        "_id":"dress 8",
+                        "image":"/images/dress8.jpg",
+                        "title":"Copy of dress 8",
+                        "description":"very good piece pappu",
+                        "availableSizes":["M","L"],
+                        "price":"200"
+                            }
+                                  
+                   
+
+]
+}
